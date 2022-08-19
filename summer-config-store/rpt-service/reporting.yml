@@ -1,0 +1,10 @@
+report:
+  export:
+    type: pdf
+  border: none
+  page:
+    color: white
+    size: A4
+duration: summer
+Footer
+© 2022 GitHub, Inc.
